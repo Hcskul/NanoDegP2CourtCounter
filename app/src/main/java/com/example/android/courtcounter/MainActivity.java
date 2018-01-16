@@ -276,12 +276,14 @@ public class MainActivity extends AppCompatActivity {
         twoMinutesTeamA = 0;
         sevenMetersTeamA = 0;
         scoreTeamB = 0;
+        twoMinutesTeamB = 0;
+        sevenMetersTeamB = 0;
         displayForTeamA(scoreTeamA);
         displayTwoMinutesForTeamA(twoMinutesTeamA);
         displaySevenMeterForTeamA(sevenMetersTeamA);
         displayForTeamB(scoreTeamB);
         displayTwoMinutesForTeamB(twoMinutesTeamB);
-        displaySevenMeterForTeamA(sevenMetersTeamB);
+        displaySevenMeterForTeamB(sevenMetersTeamB);
 
     }
 
