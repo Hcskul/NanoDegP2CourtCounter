@@ -1,13 +1,51 @@
 <resources>
-    <string name="app_name">Court Counter</string>
-    <string name="Team_A">Team A</string>
-    <string name="Team_B">Team B</string>
+    <string name="app_name">Handball Counter</string>
     <string name="Init_A">0</string>
-    <string name="Button_3Points">+3 Points</string>
-    <string name="Button_2Points">+2 Points</string>
-    <string name="Button_Freethr">Free Throw</string>
+    <string name="Button_Goal">Goal</string>
+    <string name="Choose_Country">Please choose a country</string>
+    <string name="Button_7m">7m</string>
+    <string name="Button_2min">2 min </string>
     <string name="Button_Reset">Reset</string>
 
-    <string name="Team_Style">sans-serif-medium</string>
+    <string name="Penalty_Style">sans-serif-medium</string>
     <string name="Score_Style">sans-serif-light</string>
+
+    <string-array name="countrys_a">
+        <item>Croatia</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>Sweden</item>
+        <item>Denmark</item>
+        <item>France</item>
+        <item>Hungary</item>
+        <item>Serbia</item>
+        <item>Belarus</item>
+        <item>Montenegro</item>
+        <item>Norway</item>
+        <item>Slovenia</item>
+        <item>Austria</item>
+        <item>Czech Republic</item>
+        <item>Macedonia</item>
+        <item>Iceland</item>
+    </string-array>
+
+    <string-array name="countrys_b">
+        <item>Spain</item>
+        <item>Croatia</item>
+        <item>Germany</item>
+        <item>Sweden</item>
+        <item>Denmark</item>
+        <item>France</item>
+        <item>Hungary</item>
+        <item>Serbia</item>
+        <item>Belarus</item>
+        <item>Montenegro</item>
+        <item>Norway</item>
+        <item>Slovenia</item>
+        <item>Austria</item>
+        <item>Czech Republic</item>
+        <item>Macedonia</item>
+        <item>Iceland</item>
+    </string-array>
+
 </resources>

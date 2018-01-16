@@ -3,6 +3,7 @@
     <color name="colorPrimaryApp">#3F51B5</color>
     <color name="colorPrimaryDark">#ff444444</color>
     <color name="colorAccentButton">#FF4081</color>
-    <color name="colorTeam">#616161</color>
+    <color name="colorPenalties">#616161</color>
     <color name="black">#000000</color>
+    <color name="background">#E0E0E0</color>
 </resources>
