@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Button_Margin_Hori">24dp</dimen>
+    <dimen name="Team_Margin_Vertic">16dp</dimen>
+    <dimen name="Score_Margin_Bottom">24dp</dimen>
+    <dimen name="Button_2_Margin_Vert">8dp</dimen>
+    <dimen name="Button_Reset_Margin">32dp</dimen>
+    <dimen name="Separator">1dp</dimen>
+    <dimen name="Team_Size">14sp</dimen>
+    <dimen name="Score_Size">56dp</dimen>
+</resources>
