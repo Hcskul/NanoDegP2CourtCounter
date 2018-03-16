@@ -8,4 +8,7 @@
     <dimen name="Penalties_Size">16sp</dimen>
     <dimen name="Image_Height">100dp</dimen>
     <dimen name="Spinner_Top_Margin">8dp</dimen>
+    <dimen name="margin_Button_Horizontal_1">25dp</dimen>
+    <dimen name="margin_Button_Horizontal_2">35dp</dimen>
+    <dimen name="margin_Reset_Button">500dp</dimen>
 </resources>

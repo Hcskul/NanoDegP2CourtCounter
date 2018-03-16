@@ -56,6 +56,7 @@
                     android:textSize="@dimen/Score_Size" />
 
                 <Button
+                    android:id="@+id/Score_Team_A"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -102,12 +103,14 @@
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/margin_Button_Horizontal_1"
                         android:onClick="sevenMeterTeamA"
                         android:text="@string/Button_7m" />
 
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/margin_Button_Horizontal_2"
                         android:onClick="twoMinutesTeamA"
                         android:text="@string/Button_2min" />
 
@@ -116,6 +119,7 @@
             </LinearLayout>
 
             <View
+                android:id="@+id/Separator"
                 android:layout_width="@dimen/Separator"
                 android:layout_height="match_parent"
                 android:layout_marginTop="@dimen/Top_Margin"
@@ -208,12 +212,14 @@
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/margin_Button_Horizontal_1"
                         android:onClick="sevenMeterTeamB"
                         android:text="@string/Button_7m" />
 
                     <Button
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/margin_Button_Horizontal_2"
                         android:onClick="twoMinutesTeamB"
                         android:text="@string/Button_2min" />
 
@@ -227,11 +233,12 @@
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_Reset_Button"
             android:orientation="vertical">
 
             <Button
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="93dp"
                 android:layout_marginBottom="@dimen/Button_Reset_Margin"
                 android:onClick="reset"
                 android:text="@string/Button_Reset" />

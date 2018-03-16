@@ -162,9 +162,7 @@ public class MainActivity extends AppCompatActivity {
             public void onNothingSelected(AdapterView<?> arg0) {
 
             }
-
         });
-
     }
 
     /**
@@ -266,7 +264,6 @@ public class MainActivity extends AppCompatActivity {
         sevenMetersTeamB = sevenMetersTeamB + 1;
         displaySevenMeterForTeamB(sevenMetersTeamB);
     }
-
 
     /*
     * resets both the scores and displays 0 to the screen
