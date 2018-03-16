@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Handball Counter</string>
+    <string name="app_name">ND P2 Court Counter App</string>
     <string name="Init_A">0</string>
     <string name="Button_Goal">Goal</string>
     <string name="Choose_Country">Please choose a country</string>
